@@ -81,7 +81,7 @@
 
 ## Установка
 
-[git](https://github.com/artem-75/EDA_Feature_Engineering-Competition_on_Kaggle)
+[git](https://github.com/artem-75/Classification-task-deposit-)
 
 Нажать зеленую кнопку: <> Code, далее выбрать нужное (клонировать репозиторий, открыть на ПК или скачать его архив), при запуске кода в jupyter-ноутбуке необходимо учесть существующие зависимости.
 
