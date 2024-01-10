@@ -68,7 +68,7 @@
 
 ## Метрика качества
 
-В качестве метрик использяются: accuracy, precision, recall и f-мера.
+В качестве метрик используются: accuracy, precision, recall и f-мера.
 
 ## Зависимости
 
@@ -81,7 +81,7 @@
 
 ## Установка
 
-[git](https://github.com/artem-75/Classification-task-deposit-)
+[git](https://github.com/ArtemKornev0/Classification-task-deposit-)
 
 Нажать зеленую кнопку: <> Code, далее выбрать нужное (клонировать репозиторий, открыть на ПК или скачать его архив), при запуске кода в jupyter-ноутбуке необходимо учесть существующие зависимости.
 
@@ -91,7 +91,7 @@
 
 ## Авторы
 
-[Артем Корнев](https://t.me/@Artem1975)
+[Артем Корнев](https://t.me/@ArtemKornev0)
 
 ## Выводы
 
